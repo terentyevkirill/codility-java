@@ -1,12 +1,8 @@
 package com.terentiev.codility.binarygap;
 
-public class Solution {
-    public static void main(String[] args) {
-        System.out.println(solution(305));
-    }
-
-    public static int solution(int n) {
-        char[] chars = Integer.toBinaryString(n).toCharArray();
+public class BinaryGap {
+    public int solution(int N) {
+        char[] chars = Integer.toBinaryString(N).toCharArray();
         int maxLength = 0;
 
         for (int i = 0; i < chars.length; i++) {
