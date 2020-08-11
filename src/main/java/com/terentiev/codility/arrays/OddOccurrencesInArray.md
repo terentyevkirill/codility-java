@@ -8,7 +8,7 @@ For example, in array A such that:
     A[3] = 3  A[4] = 9  A[5] = 7
     A[6] = 9
     
-- the elements at indexes 0 and 2 have value 9,
+- the elements at indexes 0 and 2 have value 9, 
 - the elements at indexes 1 and 3 have value 3,
 - the elements at indexes 4 and 6 have value 9,
 - the element at index 5 has value 7 and is unpaired.
