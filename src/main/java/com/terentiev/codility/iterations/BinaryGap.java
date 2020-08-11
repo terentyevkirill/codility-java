@@ -1,4 +1,4 @@
-package com.terentiev.codility.binarygap;
+package com.terentiev.codility.iterations;
 
 public class BinaryGap {
     public int solution(int N) {

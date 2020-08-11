@@ -1,4 +1,4 @@
-package com.terentiev.codility.binarygap;
+package com.terentiev.codility.iterations;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
