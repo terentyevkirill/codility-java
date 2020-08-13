@@ -3,6 +3,11 @@ package com.terentiev.codility.timecomplexity;
 public class FrogJmp {
 
     public int solution(int X, int Y, int D) {
-        return 0;
+        int distance = Y - X;
+        if (distance % D == 0) {
+            return distance / D;
+        } else {
+            return distance / D + 1;
+        }
     }
 }
