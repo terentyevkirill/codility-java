@@ -1,4 +1,4 @@
-package com.terentiev.codility.custom;
+package com.terentiev.codility.codeassess;
 
 public class ReverseFactorial {
     public int solution(int N) {

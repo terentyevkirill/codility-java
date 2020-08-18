@@ -1,4 +1,4 @@
-package com.terentiev.codility.custom;
+package com.terentiev.codility.codeassess;
 
 import org.junit.jupiter.api.Test;
 
